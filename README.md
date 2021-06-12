@@ -1,8 +1,8 @@
 # Project-Optimization-Xidian
 
-This is the code assignment of an optional course, w.r.t. project optimization in Xidian University.\n
-Consider this as a warmup for convex optimization.\n
-Feel free to change the initial number or try different parameters.\n
+#This is the code assignment of an optional course, w.r.t. project optimization in Xidian University.
+#Consider this as a warmup for convex optimization.
+Feel free to change the initial number or try different parameters.
 
 This directory contains:
 Assignmnet1:
